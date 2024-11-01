@@ -1,0 +1,9 @@
+body {
+    font-family: 'Pacifico', cursive; /* Terapkan font Pacifico */
+}
+
+.hero {
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/21/14/00/flowers-1841570_1280.jpg'); /* Contoh gambar untuk hero */
+    background-size: cover;
+    background-position: center;
+}
